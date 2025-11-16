@@ -1,0 +1,11 @@
+# ninja log v6
+6	85	7850002456450841	CMakeFiles/h3bqt.dir/animal.cpp.obj	d6490a342d999d7b
+10	87	7850002456551914	CMakeFiles/h3bqt.dir/dog.cpp.obj	9a6cf16339aa32c7
+2	471	7850002456450841	CMakeFiles/h3bqt.dir/main.cpp.obj	8187cdb2bea08144
+473	610	7850002461213897	h3bqt.exe	66b38bc3f4ccc592
+58	822	7850004063167098	CMakeFiles/h3bqt.dir/dog.cpp.obj	9a6cf16339aa32c7
+44	831	7850004063026676	CMakeFiles/h3bqt.dir/main.cpp.obj	8187cdb2bea08144
+51	852	7850004063097181	CMakeFiles/h3bqt.dir/animal.cpp.obj	d6490a342d999d7b
+852	981	7850004071110061	h3bqt.exe	66b38bc3f4ccc592
+27	472	7850005303383859	CMakeFiles/h3bqt.dir/main.cpp.obj	8187cdb2bea08144
+475	598	7850005307940254	h3bqt.exe	66b38bc3f4ccc592
